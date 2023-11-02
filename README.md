@@ -12,7 +12,7 @@ test	https://test.com/twtxt.txt
 person	file:///home/user/path/to/blog.txt
 ```
 
-2. Edit the `subs` value in `subtxt.sh`
+2. Edit the `subs` value in `subtxt.sh` to point to your "following" file
 3. Run `./subtxt.sh` - pipe it to `head` or a pager if your terminal is hell
 
 
