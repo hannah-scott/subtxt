@@ -1,3 +1,1 @@
-#example	file:///home/hannah/repos/subtxt/feeds/example.feed
-#hannah	file:///home/hannah/repos/subtxt/feeds/example.feed
-#nilfm	file:///home/hannah/repos/subtxt/feeds/nilfm.feed
+example	file:///home/hannah/repos/subtxt/feeds/example.feed
