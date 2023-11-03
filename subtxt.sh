@@ -1,6 +1,6 @@
 #!/bin/sh
 # subtxt - pulls and prints twtxt files
-CONFIG="/home/example-user/.subtxt"
+CONFIG="./"
 SUBS="$CONFIG/following.txt"
 FEEDS="$CONFIG/feeds"
 TIMEOUT=10

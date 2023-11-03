@@ -1,1 +1,1 @@
-example	file:///home/hannah/repos/subtxt/feeds/example.feed
+me	file:///home/hannah/repos/subtxt/twtxt.txt
